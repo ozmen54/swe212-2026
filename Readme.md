@@ -29,7 +29,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Code-first web application: Rest-API backend development for CRUD operations.</b></td>
+      <td><b>Code-first web application: Rest-API backend development with CRUD operations.</b></td>
       <td>
         <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool.<br> 
         <b>b)</b> Use Hibernate (JPA) to associate your views with DB tables. Create entity classes properly in your model section using Lombok.<br>
