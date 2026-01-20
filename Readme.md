@@ -31,7 +31,7 @@ Each group must select one unique project. Group projects will be different.
       <td>2</td>
       <td><b>Three-tier architecture with Java Spring-Boot: Rest-API backend (web app.) development with CRUD operations.</b></td>
       <td>
-        <b>a)</b> Build the app using Java 21, Spring Boot freamework and Maven build tool.<br> 
+        <b>a)</b> Build the app using Java 25, Spring Boot freamework and Maven build tool.<br> 
         <b>b)</b> Use Hibernate (JPA) to associate your views with DB tables. Create entity classes properly in your model section using Lombok.<br>
         <b>c)</b> Use MySQL or PostgreSQL as database server.<br>
         <b>d)</b> Use Postman for testing your controller endpoints.<br>
@@ -44,7 +44,7 @@ Each group must select one unique project. Group projects will be different.
       <td>3</td>
       <td><b>Authentication-authorization with basic security, file upload and server side (back-end) rendering.</b></td>
       <td>
-        <b>a)</b> You will use Project 2 study as base for this project; however, server side rendering is required. The build tool can be Maven or Gradle and Java 21 JDK in this time.<br>
+        <b>a)</b> You will use Project 2 study as base for this project; however, server side rendering is required. The build tool can be Maven or Gradle and Java 25 JDK in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
         <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
         <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
