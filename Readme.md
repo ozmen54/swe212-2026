@@ -24,7 +24,7 @@ Each group must select one unique project. Group projects will be different.
         <b>c)</b> Implement required buttons on the GUIs and action methods for CRUD operations using JDBC library. <br> 
         <b>d)</b> Show that the DB tables can be accessed and manipulated using the GUIs and the JavaFX app runs on as expected. 
       </td>
-      <td>4 March 2025</td>
+      <td>24 February 2026</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Use Postman for testing your controller endpoints.<br>
         <b>e)</b> Show that your application runs as required.
       </td>
-      <td>25 March 2025 <br></td>
+      <td>17 March 2026 <br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>29 April 2025<br></td>
+      <td>14 April 2026<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
@@ -63,7 +63,7 @@ Each group must select one unique project. Group projects will be different.
         <b>d)</b> Show that your application can create pdf reports. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
-      <td>20 May 2025<br></td>
+      <td>12 May 2026<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
