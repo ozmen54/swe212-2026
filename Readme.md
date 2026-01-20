@@ -42,7 +42,7 @@ Each group must select one unique project. Group projects will be different.
     </tr>
     <tr>
       <td>3</td>
-      <td><b>Authentication-authorization with basic security, file upload and server side rendering.</b></td>
+      <td><b>Authentication-authorization with basic security, file upload and server (back-end) side rendering.</b></td>
       <td>
         <b>a)</b> You will use Project 2 study as base for this project; however, server side rendering is required. The build tool can be Maven or Gradle and Java 21 JDK in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
