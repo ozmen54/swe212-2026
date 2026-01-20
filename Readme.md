@@ -29,13 +29,13 @@ Each group must select one unique project. Group projects will be different.
     </tr>
     <tr>
       <td>2</td>
-      <td><b>Code-first web application: Rest-API backend development with CRUD operations.</b></td>
+      <td><b>Three-tier architecture with Java Spring-Boot: Rest-API backend (web app.) development with CRUD operations.</b></td>
       <td>
-        <b>a)</b> Build the app using Java 17, Spring Boot freamework and Maven build tool.<br> 
+        <b>a)</b> Build the app using Java 21, Spring Boot freamework and Maven build tool.<br> 
         <b>b)</b> Use Hibernate (JPA) to associate your views with DB tables. Create entity classes properly in your model section using Lombok.<br>
         <b>c)</b> Use MySQL or PostgreSQL as database server.<br>
         <b>d)</b> Use Postman for testing your controller endpoints.<br>
-        <b>e)</b> Show that your application runs as required.
+        <b>e)</b> Show that your application runs as designed.
       </td>
       <td>17 March 2026 <br></td>
       <td><a href="pro2.pdf">Project2</a></td>
