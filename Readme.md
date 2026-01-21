@@ -74,7 +74,7 @@ Each group must select only one project topic, two or more groups can not work o
 * Groups are allowed 10 minutes to present their work.
 * Groups are called to present their work based on a random number announced in the class. 
 * One person can be a speaker or members can present stages separately in one session.
-* All group members are expected on the board while presenting. Absent members will be penalized according to excuse.
+* All group members are expected on the board while presenting. 
 * Group members help each other to hook their computer to the projector quickly.
 * Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
 
