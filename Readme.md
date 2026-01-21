@@ -76,5 +76,5 @@ Each group must select only one project topic, two or more groups can not work o
 * One person can be a speaker or members can present stages separately in one session.
 * All group members are expected on the board while presenting. 
 * Group members help each other to hook their computer to the projector quickly.
-* Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
+* Members (and groups) who are not contributed at all or do not show up at presentation will get 0 (zero) grade.
 
