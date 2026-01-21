@@ -58,8 +58,8 @@ Each group must select one unique project. Group projects will be different.
       <td><b>Four-tier architecture with Java back-end and React front-end.</b></td>
       <td>
         <b>a)</b> You will re-design your problem based on four-tier architecture.<br>
-        <b>b)</b> Show that backend services are working ok (use Postman). <br>
-        <b>c)</b> Show that frontend (React generated views) are working as expected (use Browser). <br>
+        <b>b)</b> Show that back-end services are working ok (use Postman). <br>
+        <b>c)</b> Show that front-end (React generated views) are working as expected (use Browser). <br>
         <b>d)</b> Show that your application can create pdf reports. <br>
         <b>e)</b> Show that your application runs as expected.
       </td>
