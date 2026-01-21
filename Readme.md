@@ -1,7 +1,7 @@
 # SWE 212 DISTRIBUTED INFORMATION AND MANAGEMENT
 
 Please click the link below to see the projects: <br>
-[SWE212 Project Descriptions](SWE212_ProjectDescriptions_2025.pdf) <br>
+[SWE212 Project Descriptions](SWE212_ProjectDescriptions_2026.pdf) <br>
 Each group must select one unique project. Group projects will be different. 
 
 ## Projects:
