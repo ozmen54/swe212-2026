@@ -44,7 +44,7 @@ Each group must select one unique project. Group projects will be different.
       <td>3</td>
       <td><b>Authentication-authorization with basic security, file upload and server side (back-end) rendering.</b></td>
       <td>
-        <b>a)</b> You will use Project 2 study as base for this project; however, server side (baack-end) rendering is required. The build tool will be Gradle (version 9.2.1) and Java 25 JDK in this time.<br>
+        <b>a)</b> You will use Project 2 study as base for this project; however, server side (back-end) rendering is required. The build tool will be Gradle (version 9.2.1) and Java 25 JDK in this time.<br>
         <b>b)</b> Create at least two roles: ADMIN and USER. <br>
         <b>c)</b> ADMIN is able to do all CRUD operations over the tables. USER will have limitted access. Create a logic based on your project topic and justify yourself. <br>
         <b>d)</b> Show that the user image file uploading and displaying them on related web pages work. <br>
