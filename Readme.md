@@ -2,7 +2,7 @@
 
 Please click the link below to see the projects:
 [SWE212 Project Descriptions](SWE212_ProjectDescriptions_2026.pdf) <br>
-Each group must select one unique project topic. Two different group can not work on the same topic. 
+Each group must select only one project topic, two or more groups can not work on the same topic. 
 
 ## Projects:
 
